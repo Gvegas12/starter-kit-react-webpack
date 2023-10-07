@@ -6,4 +6,5 @@
 - Webpack
 - TypeScript
 - Jest
+- Loki
 - Storybook
